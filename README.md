@@ -6,6 +6,9 @@
 
 There are two ways to install the plugin: through the WordPress admin panel or manually by uploading the plugin zip file.
 
+![image](https://github.com/Affiliaters/affiliaters-wordpress-post/assets/6234825/7702ac9c-61f1-4cbf-be05-4a35325c20a4)
+
+
 ### Method 1: Installation through the WordPress Admin Panel
 
 1. Download the latest release of the plugin from the [GitHub repository](https://github.com/Affiliaters/affiliaters-wordpress-post).
