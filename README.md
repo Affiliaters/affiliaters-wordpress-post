@@ -1,6 +1,6 @@
 # Affiliaters WordPress Post Plugin
 
-**Affiliaters WordPress Post Plugin** is a plugin that provides [brief description of the plugin's purpose]. It allows users to [mention the key features and functionality it provides]. This plugin is compatible with WordPress [version numbers].
+**Affiliaters WordPress Post Plugin** is a plugin that provides posting Deal to your wordpress Site from Affiliaters.in. 
 
 ## Installation
 
