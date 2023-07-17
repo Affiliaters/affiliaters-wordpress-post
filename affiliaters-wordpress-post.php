@@ -84,7 +84,7 @@ function affiliaters_post_creator_endpoint() {
 function affiliaters_create_post( WP_REST_Request $request ) {
   $post_type = sanitize_text_field( $request->get_param('post_type') );
   $title = sanitize_text_field( $request->get_param('title') );
-  $content = sanitize_text_field( $request->get_param('content') );
+  $content = $request->get_param('content');
   $featured_img_url = sanitize_text_field( $request->get_param('featured_img_url') );
   $custom_meta = $request->get_param('custom_meta');
   $external_url = $request->get_param('external_url');
